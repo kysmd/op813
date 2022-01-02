@@ -1,9 +1,9 @@
 원플(Oneplus 3t)에서 오픈파일럿 이식하려면?
 ------
-1. 일단 /data 디렉토리에서 0.8.12 브렌치를 클론합니다.
+1. 일단 /data 디렉토리에서 0.8.13 브렌치를 클론합니다.
 ```
 cd /data/ && mv openpilot openpilot-backup;
-git clone https://github.com/kans-ky/op810.git openpilot --branch 0.8.12-opneplus
+git clone https://github.com/kans-ky/op813.git openpilot --branch 0.8.13-opneplus
 ```
 
 2. 아래 명령 실행합니다
